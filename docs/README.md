@@ -17,7 +17,7 @@ To use this app, you need to import in your dependencies on `manifest.json`.
 
 ```json
   "dependencies": {
-    "blacksipqa.timer": "0.x"
+    "vendor.timer": "0.x"
   }
 ```
 

@@ -6,12 +6,12 @@ The `count-down` is the block is responsible show count down
 
 ## Configuration
 
-1. Import the `blacksipqa.timer` app to your theme's dependencies in the `manifest.json`, for example:
+1. Import the `vendor.timer` app to your theme's dependencies in the `manifest.json`, for example:
 
 ```json
 {
     "dependencies": {
-        "blacksipqa.timer": "0.x"
+        "vendor.timer": "0.x"
     }
 }
 ```
