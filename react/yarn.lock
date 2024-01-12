@@ -2313,6 +2313,10 @@ convert-source-map@^1.4.0, convert-source-map@^1.6.0, convert-source-map@^1.7.0:
   dependencies:
     safe-buffer "~5.1.1"
 
+"coopidrogas.product-contextualization@https://arleytest--coopidrogas.myvtex.com/_v/private/typings/linked/v1/coopidrogas.product-contextualization@0.0.1+build1705023068/public/@types/coopidrogas.product-contextualization":
+  version "0.0.1"
+  resolved "https://arleytest--coopidrogas.myvtex.com/_v/private/typings/linked/v1/coopidrogas.product-contextualization@0.0.1+build1705023068/public/@types/coopidrogas.product-contextualization#7841842b97113d6dd6b09cf0ee34591e41808a03"
+
 copy-descriptor@^0.1.0:
   version "0.1.1"
   resolved "https://registry.npmjs.org/copy-descriptor/-/copy-descriptor-0.1.1.tgz"
@@ -5628,9 +5632,13 @@ verror@1.10.0:
   resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.css-handles@0.4.4/public/@types/vtex.css-handles"
   integrity sha512-QHSMD4rq2nKtJ1f1tH/RPqj4cYu2gKdghYHBdJSYzGh0e7AGD8ByCPzSdHyVnlO2OIRKAAqPHI05baN6neLYFg==
 
-"vtex.render-runtime@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.134.1/public/@types/vtex.render-runtime":
-  version "8.134.1"
-  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.134.1/public/@types/vtex.render-runtime#da48779c477fbef1521010718b0f779ee1ae1ffe"
+"vtex.product-context@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.product-context@0.10.0/public/@types/vtex.product-context":
+  version "0.10.0"
+  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.product-context@0.10.0/public/@types/vtex.product-context#c5e2a97b404004681ee12f4fff7e6b62157786cc"
+
+"vtex.render-runtime@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.134.2/public/@types/vtex.render-runtime":
+  version "8.134.2"
+  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.134.2/public/@types/vtex.render-runtime#ae69e2b2a471291c6c6b155e17510150fbfc2d0e"
 
 w3c-hr-time@^1.0.1:
   version "1.0.2"

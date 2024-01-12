@@ -1,6 +1,6 @@
 {
-  "vendor": "vendor",
-  "name": "event-cards",
+  "vendor": "coopidrogas",
+  "name": "product-contextualization",
   "version": "0.0.1",
   "title": "",
   "defaultLocale": "es",
@@ -15,7 +15,8 @@
     "prereleasy": "bash lint.sh"
   },
   "dependencies": {
-    "vtex.css-handles": "0.x"
+    "vtex.css-handles": "0.x",
+    "vtex.product-context": "0.x"
   },
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
 }
